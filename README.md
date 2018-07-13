@@ -1,3 +1,8 @@
+---
+title: Empirical Model Learning
+layout: default
+---
+
 ## Welcome to GitHub Pages
 
 Test math: $a = b$
