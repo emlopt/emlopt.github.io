@@ -73,7 +73,7 @@ Rather than providing links directly in the web site, we are maintaining an upda
 }
 ```
 
-### EML GitHub Repository
+### EMLlib
 
 We have just started to maintain a GitHub repository that implements techniques related to EML, including:
 
@@ -81,11 +81,13 @@ We have just started to maintain a GitHub repository that implements techniques 
 * Pre- and post- processing methods
 * I/O support (in particular readers for popular ML libraries)
 
+The repository can be found at [https://github.com/emlopt/emllib](https://github.com/emlopt/emllib)
+
 The repository is not limited to work by the University of Bologna group: it includes (or rather will include) implementations of other techniques that are closely related to EML. The code relies on a Python API and is work in progress: at the moment, only a fraction of the existing EML techniques have been included, but that number should grow quickly.
 
 ### EML Tutorial
 
-After Jul 14 2018, we will publish an on-line repository containing the code for the EML tutorial held at IJCAI 2018.
+On Jul 14 2018, we will publish an on-line repository containing the code for the EML tutorial held at IJCAI 2018.
 
 ## Contacts
 
