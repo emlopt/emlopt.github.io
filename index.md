@@ -89,7 +89,7 @@ The repository is not limited to work by the University of Bologna group: it inc
 
 On Jul 14 2018, we will publish an on-line repository containing the code for the EML tutorial held at IJCAI 2018.
 
-* The slides of the tutorial are [available for download] (emlopt.github.io). Note that it covers way more topics than just Empirical Model Learning!
+* The slides of the tutorial are [available for download](http://emlopt.github.io). Note that it covers way more topics than just Empirical Model Learning!
 * The code for the practical section of the tutorial is available at [https://github.com/emlopt/emltutorial](https://github.com/emlopt/emltutorial)
 
 ## Contacts
