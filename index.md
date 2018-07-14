@@ -89,6 +89,8 @@ The repository is not limited to work by the University of Bologna group: it inc
 
 On Jul 14 2018, we will publish an on-line repository containing the code for the EML tutorial held at IJCAI 2018.
 
+The tutorial material is available at [https://github.com/emlopt/emltutorial](https://github.com/emlopt/emltutorial)
+
 ## Contacts
 
 For more information, you can contact:
