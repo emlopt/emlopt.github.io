@@ -59,8 +59,8 @@ EML is not the only approach to boost modeling of optimization problems by means
 
 Rather than providing links directly in the web site, we are maintaining an updated survey on methods to integrate optimization and Machine Learning at the modeling level. The first version of the survey has been just accepted and published at IJCAI 2018.
 
-* The current state of the survey (right now, the IJCAI 2018 submission) [can be found here](assets/survey.pdf).
-* The work can be cited as:
+* The current state of the survey (right now, the IJCAI 2018 submission) [can be found on arXiv](https://arxiv.org/abs/1807.05517).
+* The work in its current version can be cited as (or you can use the arXiv entry, which will be kept up to date):
 
 ```
 @inproceedings{DBLP:conf/ijcai/0001M18,
