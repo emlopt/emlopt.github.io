@@ -94,7 +94,7 @@ IJCAI 2018 Tutorial:
 
 EML slides at ModRef2018:
 
-* The slides of the invited talk at ModRef2018 (a workshop within [CP 2018](http://cp2018.a4cp.org)) are [available for download](assets/ModRef2018.pdf).
+* The slides of the invited talk at ModRef2018 (a workshop within [CP 2018](http://cp2018.a4cp.org)) are [available for download](assets/ModRef_2018.pdf).
 
 ## Contacts
 
