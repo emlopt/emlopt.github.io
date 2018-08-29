@@ -85,12 +85,16 @@ The repository can be found at [https://github.com/emlopt/emllib](https://github
 
 The repository is not limited to work by the University of Bologna group: it includes (or rather will include) implementations of other techniques that are closely related to EML. The code relies on a Python API and is work in progress: at the moment, only a fraction of the existing EML techniques have been included, but that number should grow quickly.
 
-### EML Tutorial
+### EML Tutorials and slides
 
-On Jul 14 2018, we will publish an on-line repository containing the code for the EML tutorial held at IJCAI 2018.
+IJCAI 2018 Tutorial:
 
 * The slides of the tutorial are [available for download](assets/Tutorial_IJCAI2018.pdf). Note that it covers way more topics than just Empirical Model Learning!
 * The code for the practical section of the tutorial is available at [https://github.com/emlopt/emltutorial](https://github.com/emlopt/emltutorial)
+
+EML slides at ModRef2018:
+
+* The slides of the invited talk at ModRef2018 (a workshop within [CP 2018](http://cp2018.a4cp.org)) are [available for download](assets/ModRef2018.pdf).
 
 ## Contacts
 
